@@ -1,0 +1,7 @@
+/home/j0r1k/workspace/с++/cg-work/cg/tests/CMakeFiles/cg-test.dir
+/home/j0r1k/workspace/с++/cg-work/cg/tests/CMakeFiles/cg_test_headers.dir
+/home/j0r1k/workspace/с++/cg-work/practice-1/CMakeFiles/find-points.dir
+/home/j0r1k/workspace/с++/cg-work/practice-2/CMakeFiles/task1.dir
+/home/j0r1k/workspace/с++/cg-work/cg/examples/viewer/CMakeFiles/viewer-example.dir
+/home/j0r1k/workspace/с++/cg-work/cg/src/CMakeFiles/visualization.dir
+/home/j0r1k/workspace/с++/cg-work/cg/include/CMakeFiles/visualization_headers.dir
